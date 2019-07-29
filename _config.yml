@@ -28,7 +28,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+# Collection for Display Medium
+collections:
+  - medium_posts
 # Archives
 jekyll-archives:
   enabled:
